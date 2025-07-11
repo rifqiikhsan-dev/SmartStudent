@@ -1,0 +1,49 @@
+Struktur Data
+Algoritma
+Dasar Pemrograman
+Pemrograman Berorientasi Objek
+Basis Data
+Jaringan Komputer
+Sistem Operasi
+Kecerdasan Buatan
+Rekayasa Perangkat Lunak
+Keamanan Informasi
+Pemrograman Web
+Mobile Programming
+Pengantar Teknologi Informasi
+Etika Profesi TI
+Manajemen Proyek TI
+Pemrosesan Bahasa Alami
+Desain UI/UX
+Data Mining
+Big Data
+Machine Learning
+Deep Learning
+Pemrograman Python
+Pemrograman Java
+Pemrograman C++
+Analisis Algoritma
+Komputasi Awan
+Internet of Things
+Blockchain Dasar
+Virtual Reality
+Augmented Reality
+Robotika Dasar
+Sistem Tertanam
+Komputer Grafis
+Pengolahan Citra Digital
+Manajemen Basis Data
+Cloud Security
+Sistem Informasi Geografis
+Manajemen Risiko TI
+Teknologi Game
+Matematika Diskrit
+Kalkulus
+Statistika Dasar
+Logika Informatika
+Bahasa Inggris Teknik
+Bahasa Indonesia Akademik
+Metodologi Penelitian
+Kewirausahaan Digital
+Sosioteknologi
+Literasi Digital

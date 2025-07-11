@@ -1,0 +1,26 @@
+Gerbang,Perpustakaan,100
+Gerbang,Parkiran Utama,60
+Gerbang,Rektorat,120
+Parkiran Utama,Gedung A,90
+Parkiran Utama,Gedung B,130
+Parkiran Utama,Kantin,80
+Perpustakaan,Gedung A,200
+Perpustakaan,Gedung C,150
+Gedung A,Gedung B,50
+Gedung A,Lab Komputer,70
+Gedung B,Gedung C,60
+Gedung B,Aula Utama,110
+Gedung C,Lab Komputer,40
+Gedung C,Taman Kampus,75
+Lab Komputer,Taman Kampus,55
+Kantin,Masjid,90
+Kantin,Lapangan,140
+Masjid,Asrama Mahasiswa,100
+Asrama Mahasiswa,Klinik Kesehatan,120
+Klinik Kesehatan,Aula Utama,150
+Aula Utama,Rektorat,80
+Rektorat,Taman Kampus,65
+Taman Kampus,Lapangan,95
+Lapangan,Stadion Mini,60
+Stadion Mini,Gedung Olahraga,70
+Gedung Olahraga,Klinik Kesehatan,85
